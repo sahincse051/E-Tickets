@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: imran@gmail.com
+Tour Code: LL
+Ticket Cost: Rs 40000.000000
+Number of tickets: 4
+Total Cost: Rs 160000.000000
